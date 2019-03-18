@@ -3,19 +3,19 @@ pages:
 - Home: index.md
 - About: about.md
 - Guides:
-	- Getting Started:
-		- Wiring Up and connecting:
-			- Connecting to Servers: guides/wiring/connecting.md
-			- Assigning IPs: guides/assigning.md
-		- Connecting to VMs:
-			- Connecting to ESXI: guides/connecting/VMWare.md
-			- Finding NAS: guides/raidar.md
-			- Connecting to NAS: guides/connecting/NAS.md
-	- Configuration:
-		- Configuring ESXI: guides/configuration/ESXI.md
-		- Configuring the NAS: guides/configuration/con_NAS.md
-		- Configuring Shared Storage: guides/configuration/NASPool.md
-	- Setting Up:
-		- Configure ISCSI: guides/setup/ISCSI.md
-		- Configure VM's: guides/setup/newVM.md
+  - Getting Started:
+    - Wiring Up and connecting:
+      - Connecting to Servers: guides/wiring/connecting.md
+        - Assigning IPs: guides/assigning.md
+    - Connecting to VMs:
+      - Connecting to ESXI: guides/connecting/VMWare.md
+      - Finding NAS: guides/raidar.md
+      - Connecting to NAS: guides/connecting/NAS.md
+  - Configuration:
+    - Configuring ESXI: guides/configuration/ESXI.md
+    - Configuring the NAS: guides/configuration/con_NAS.md
+    - Configuring Shared Storage: guides/configuration/NASPool.md
+  - Setting Up:
+    - Configure ISCSI: guides/setup/ISCSI.md
+    - Configure VM's: guides/setup/newVM.md
 theme: readthedocs
