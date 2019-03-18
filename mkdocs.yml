@@ -16,5 +16,5 @@ pages:
     - Configuring Shared Storage: guides/configuration/NASPool.md
   - Setting Up:
     - Configure ISCSI: guides/setup/ISCSI.md
-    - Configure VM's: guides/setup/newVM.md
+    - Configure VMs: guides/setup/newVM.md
 theme: readthedocs
