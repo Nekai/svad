@@ -1,5 +1,5 @@
 site_name: Linux and Virtualization
-pages:
+nav:
 - Home: index.md
 - About: about.md
 - Guides:
