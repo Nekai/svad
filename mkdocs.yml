@@ -18,3 +18,5 @@ pages:
     - Configure ISCSI: guides/setup/ISCSI.md
     - Configure VMs: guides/setup/newVM.md
 theme: readthedocs
+markdown_extensions:
+    - admonition
