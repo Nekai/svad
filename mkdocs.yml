@@ -8,8 +8,7 @@ pages:
     - Assigning IPs: guides/assigning.md
   - Connecting to VMs:
     - Connecting to ESXI: guides/connecting/VMWare.md
-    - Finding NAS: guides/raidar.md
-    - Connecting to NAS: guides/connecting/NAS.md
+    - Connecting to NAS: guides/raidar.md
   - Configuration:
     - Configuring ESXI: guides/configuration/ESXI.md
     - Configuring the NAS: guides/configuration/con_NAS.md
